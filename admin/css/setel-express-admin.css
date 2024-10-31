@@ -1,0 +1,11 @@
+/*@tailwind base;*/
+/*@tailwind components;*/
+@tailwind utilities;
+
+[v-cloak] {
+    display: none;
+}
+
+.edit-php.post-type-setel_shipment .page-title-action {
+    display: none;
+}
